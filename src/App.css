@@ -1,0 +1,20 @@
+.card {
+  width: 400px;
+  height: 400px;
+  border: 1px solid pink;
+
+
+}
+
+/* .containerer {
+  display: flex;
+} */
+
+section {
+  display: flex;
+  flex-direction: row;
+}
+
+.foot {
+  background-color: lightblue;
+}

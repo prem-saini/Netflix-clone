@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    background-color: white;
+}
+
+.Header {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.div_right img {
+    width: 100px;
+}
+
+.div_left img {
+    width: 40px;
+    position: relative;
+    top: 30px;
+    right: 10px;
+
+}
